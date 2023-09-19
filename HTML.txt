@@ -6,6 +6,7 @@ html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Web Page</title>
 </head>
+<img src="https://etc.usf.edu/presentations/extras/letters/theme_alphabets/23/33/W-400.png" alt="not visible" width="500" height="333">
 <body BGCOLOR="FFFFFF">
     <h1>Welcome to My Web Page</h1>
     <p>This is a paragraph of text on my web page.</p>
